@@ -1,0 +1,6 @@
+[submodule "settlements"]
+	path = settlements
+	url = https://github.com/FaceDeer/settlements.git
+[submodule "cottages"]
+	path = cottages
+	url = https://github.com/Sokomine/cottages.git
